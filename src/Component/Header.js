@@ -44,7 +44,7 @@ const Header = () => {
       </Grid>
       <Fade left>
         <Typography className={classes.title} variant="h4">
-          <Typed strings={["Muhammad Al Mamun"]} typeSpeed={60} backSpeed={40}/>
+          <Typed strings={["Muhammad Al Mamun"]} typeSpeed={40}/>
         </Typography>
       </Fade>
       <Fade right>
@@ -55,7 +55,7 @@ const Header = () => {
               "Backend Developer",
               "Native App Developer",
             ]}
-            typeSpeed={60}
+            typeSpeed={40}
             backSpeed={40}
             loop
           />

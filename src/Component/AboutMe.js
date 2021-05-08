@@ -209,6 +209,9 @@ const AboutMe = () => {
                 },
                 {
                     data: 'Bootstrap'
+                },
+                {
+                    data: 'Responsive and optimized design'
                 }
             ]
         },
